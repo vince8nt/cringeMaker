@@ -1,4 +1,4 @@
-#Cringe Maker
+# Cringe Maker
 A simple javascript program that makes custom sunglasses emjois.
 The emojis are meant to be cringe.
 
